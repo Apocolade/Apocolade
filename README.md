@@ -1,4 +1,4 @@
-<h1>Hello, my name is Jonathan, and welcome to my cyber portfolio <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Greetings! My name is Jonathan. Welcome to my cyber portfolio, and I am an <a href="https://www.linkedin.com/in/jbaker368/">Aspiring Cybersecurity Professional</a>
 
 <h2>💻 Cyber Secuirty Projects:</h2>
 
